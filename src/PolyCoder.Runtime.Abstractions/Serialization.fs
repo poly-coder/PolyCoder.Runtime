@@ -3,5 +3,5 @@
 open System
 open System.IO
 
-type StreamSerializerAsyncFunc = Stream -> Type -> obj -> Async<unit>
-type StreamDeserializerAsyncFunc = Stream -> Type -> Async<obj>
+//type StreamSerializerAsyncFunc = Stream -> Type -> obj -> Async<unit>
+//type StreamDeserializerAsyncFunc = Stream -> Type -> Async<obj>

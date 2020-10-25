@@ -9,7 +9,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.6.0" />
     <PackageReference Include="FSharp.Control.AsyncSeq" Version="3.0.2" />
+    <PackageReference Include="PolyCoder.Extra" Version="0.0.2" />
+    <PackageReference Include="PolyCoder.Preamble" Version="0.0.14" />
   </ItemGroup>
 
   <ItemGroup>

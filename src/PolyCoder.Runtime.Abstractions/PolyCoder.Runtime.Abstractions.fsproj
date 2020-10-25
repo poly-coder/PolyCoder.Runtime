@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Compile Include="Serialization.fs" />
-    <Compile Include="AsyncSeq.fs" />
+    <Compile Include="Extra.fs" />
     <Compile Include="KeyValueStore.fs" />
   </ItemGroup>
 
